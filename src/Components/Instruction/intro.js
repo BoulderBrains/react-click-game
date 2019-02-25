@@ -4,8 +4,8 @@ class Title extends Component {
     render() {
         return(
             <header className="header">
-                <h1>Memory game</h1>
-                <h2>Don't click the same image twice or it's game over!</h2>
+                <h1>Sci-Fi Memory Game</h1>
+                <h2>Don't click the same space image twice or it's game over!</h2>
             </header>
         )
     }

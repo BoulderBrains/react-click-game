@@ -1,5 +1,4 @@
 # React Sci-Fi Memory Game
-### Hosted through github pages: http://10.0.0.62:5000
 ### Github pages url: https://boulderbrains.github.io/react-click-game/
 
 ### Description

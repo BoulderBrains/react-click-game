@@ -27,6 +27,7 @@ class App extends Component {
         } else {
             icon.push(id)
             this.setState({
+				// eslint-disable-next-line
                 score: this.state.score += 1,
                 navMessage: "Correct!",
                 clicked: icon
